@@ -25,3 +25,5 @@
 - É o oposto do `git push` onde inporta commits para o branches local.
 > Verificando o historico de commits
 - Você pode verificar o historico de commits usando o comnado `git reflog`.
+> Verificando o log de commits
+- O comando para verificar logs do git é o `git log`.

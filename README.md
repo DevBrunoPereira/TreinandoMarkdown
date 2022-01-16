@@ -18,6 +18,8 @@
 - Para criar commits devemos usar o seguinte comando: `git commit -m "comentario do que foi feito no codigo"`
 > Como enviar alterações usando `git push`
 - O comando `git push` usado para enviar o conteúdo do repositório local para um repositório remoto.    
+- O Comando que mais uso é `git push origin master`
 - `git push` (_remot_ ) (_branch_)
 > comando `git fetch`
 - É o oposto do `git push` onde inporta commits para o branches local.
+> branch

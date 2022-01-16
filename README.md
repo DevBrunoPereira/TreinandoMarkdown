@@ -22,4 +22,5 @@
 - `git push` (_remot_ ) (_branch_)
 > comando `git fetch`
 - É o oposto do `git push` onde inporta commits para o branches local.
-> branch
+> Verificando o historico de commits
+- Você pode verificar o historico de commits usando o comnado `git reflog`.
